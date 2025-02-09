@@ -126,24 +126,24 @@ const About = () => {
   }, []);
 
   const skills = [
-    "Python",
-    "ReactJS",
-    "SQL",
-    "JavaScript (ES6+)",
-    "PySpark",
-    "HTML",
-    "Databricks",
-    "CSS",
-    "Azure Data Services",
-    ".NET",
-    "AWS Cloud Services",
-    "MVC Application Development",
-    "Data Analysis",
-    "React Native",
-    "Machine Learning",
-    "ExpressJS",
-    "ETL Data Management"
-];
+    'Python',
+    'ReactJS',
+    'SQL',
+    'JavaScript (ES6+)',
+    'PySpark',
+    'HTML',
+    'Databricks',
+    'CSS',
+    'Azure Data Services',
+    '.NET',
+    'AWS Cloud Services',
+    'MVC Application Development',
+    'Data Analysis',
+    'React Native',
+    'Machine Learning',
+    'ExpressJS',
+    'ETL Data Management',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -152,20 +152,28 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello, My name is Lakshmi Narayana Jagarlamudi, and I enjoy solving complex problems and building solutions that leverage data and technology. My journey began with a passion for understanding data, which led me to pursue a career in Data Engineering. Over time, this passion has evolved into creating scalable pipelines and insightful solutions for real-world challenges.</p>
-
             <p>
-            I have 1.6 years of experience working as a Data Engineer, contributing to impactful projects in domains like Non-Profit Organizations, Data Warehousing, 
-            and Storage Solutions. During this time, I spearheaded the migration of data pipelines for clients such as{' '}
-              <a href="https://www.bgca.org/">Boys and Girls Club of America</a>,{' '}
-              <a href="https://www.westerndigital.com/">Western Digital Corporation</a>,{' '}
-              and implemented innovative ETL processes and business intelligence solutions.
+              Hello, My name is Lakshmi Narayana Jagarlamudi, and I enjoy solving complex problems
+              and building solutions that leverage data and technology. My journey began with a
+              passion for understanding data, which led me to pursue a career in Data Engineering.
+              Over time, this passion has evolved into creating scalable pipelines and insightful
+              solutions for real-world challenges.
             </p>
 
             <p>
-            Beyond my professional experience, I’ve been actively exploring React Native for mobile app development and 
-            recently started building a GenAI application for advanced Excel file filtering. 
-            I also enjoy contributing to meaningful projects that help businesses grow and adapt to technological advancements.
+              I have 1.6 years of experience working as a Data Engineer, contributing to impactful
+              projects in domains like Non-Profit Organizations, Data Warehousing, and Storage
+              Solutions. During this time, I spearheaded the migration of data pipelines for clients
+              such as <a href="https://www.bgca.org/">Boys and Girls Club of America</a>,{' '}
+              <a href="https://www.westerndigital.com/">Western Digital Corporation</a>, and
+              implemented innovative ETL processes and business intelligence solutions.
+            </p>
+
+            <p>
+              Beyond my professional experience, I’ve been actively exploring React Native for
+              mobile app development and recently started building a GenAI application for advanced
+              Excel file filtering. I also enjoy contributing to meaningful projects that help
+              businesses grow and adapt to technological advancements.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -180,7 +188,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
