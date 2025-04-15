@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Student Evaluation and Filter'
-cover: './StudentEvalAPP.png'
+cover: './content/featured/StudentEval/StudentEvalAPP.png'
 github: 'https://github.com/Lakshmanjagarlamudi1/StudentEvaluationApp'
 tech:
   - Python
