@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Formula 1 Race Analysis'
-cover: './Formula1.png'
+cover: 'content/featured/Formula1/Formula1.png'
 tech:
   - Databricks
   - ETL Automation

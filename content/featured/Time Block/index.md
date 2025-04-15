@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'SETA Time Block Assigner'
-cover: './TimeBlockAssigner.png'
+cover: 'content/featured/Time Block/TimeBlockAssigner.png'
 # github: 'https://github.com/Lakshmanjagarlamudi1/TimeBlockAssigner'
 cta: 'https://github.com/Lakshmanjagarlamudi1/TimeBlockAssigner'
 tech:

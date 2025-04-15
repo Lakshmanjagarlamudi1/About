@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'HTML Data Scraping and Processing Pipeline'
-cover: './HTMLParser.png'
+cover: 'content/featured/HTMLParser/HTMLParser.png'
 github: 'https://github.com/Lakshmanjagarlamudi1/HTML_Parser'
 tech:
   - Python
